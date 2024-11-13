@@ -1,4 +1,4 @@
-# PDF File Converter
+# PDF File Generator
 
 A Python utility for combining and transforming multiple files (PDFs and images) into a single PDF document.
 
